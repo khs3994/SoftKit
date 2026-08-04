@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="SoftKit" width="480">
+</p>
+
 # SoftKit
 
 A toolkit for automating the soft side of software development — planning, docs, and communication.
