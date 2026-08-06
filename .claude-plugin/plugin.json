@@ -1,0 +1,18 @@
+{
+  "name": "softkit",
+  "version": "0.1.0",
+  "description": "A toolkit for automating the soft side of software development — planning, docs, and communication.",
+  "author": {
+    "name": "khs3994"
+  },
+  "homepage": "https://github.com/khs3994/SoftKit",
+  "repository": "https://github.com/khs3994/SoftKit",
+  "license": "MIT",
+  "keywords": [
+    "communication",
+    "soft-skills",
+    "slack",
+    "planning",
+    "documentation"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "softkit",
+  "owner": {
+    "name": "khs3994"
+  },
+  "plugins": [
+    {
+      "name": "softkit",
+      "source": "./",
+      "description": "A toolkit for automating the soft side of software development — planning, docs, and communication."
+    }
+  ]
+}
